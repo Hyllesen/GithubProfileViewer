@@ -1,4 +1,4 @@
-# react-webpack-babel
+# Github profile viewer
 Simple React Webpack Babel Starter Kit
 
 
